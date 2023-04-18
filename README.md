@@ -1,5 +1,5 @@
 # MarketDataRec
-用C++开发跨平台的基于ctp_api的交易程序，可以实现在云服务器连续自动运行，无需手动干预，微信监控实时通知，接触不到电脑也可随时了解交易行情动态，数据文件自动压缩上传百度网盘，熟悉无锁ringbuffer的使用，尽可能降低延迟。 
+用C++开发的跨平台的基于上期技术ctp api的交易程序，可以实现在云服务器连续自动运行，无需手动干预，微信监控实时通知，接触不到电脑也可随时了解交易行情动态，数据文件自动压缩上传百度网盘，熟悉无锁ringbuffer的使用，尽可能降低延迟。 
 
 交流请加微信：SpeculationLab
 
@@ -23,4 +23,4 @@ B站视频：https://space.bilibili.com/1759041860
 
 交流请加微信：SpeculationLab
 
-CCtalk地址：https://www.cctalk.com/m/group/90673080
+CCtalk：https://www.cctalk.com/m/group/90673080
