@@ -5,7 +5,7 @@
 
 # B站视频：https://space.bilibili.com/1759041860
 
-视频目录：
+# 视频目录：
 
 00.准备
 
@@ -40,5 +40,5 @@
 
 # 交流请加微信：X_Trader_Lab
 
-# 免费课程：https://www.cctalk.com/m/group/90673080
+# 免费课程：https://edu.csdn.net/course/detail/38234
 # 进阶课程：https://www.cctalk.com/m/group/91151359
